@@ -23,8 +23,8 @@ title: Resume
   <div class="row top-bottom-buffer" id="about-me">
       <div class="mx-auto col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <h1> About Me </h1><br>
-        <p class="text-justify">My name is Pulkit and I've been a Software Engineer with Goldman Sachs since November 2019. Prior to that, I worked with American Express for 2.5 years. I've spent over 3.5 years working in the industry with research and development work spanning in Big Data, Machine Learning and highly available web applications. I completed my graduate studies in 2017 from <a href="https://www.pec.ac.in/" target="_blank">Punjab Engineering College, Chandigarh</a> with a major in Computer Science & Engineering. <br><br>
-        I am interested in the applications of AI & Machine Learning for social good, with a particular interest in the area of education. Please find a copy of my resume <a href="resources/CV.pdf" target="_blank">here.</a></p>
+        <p class="text-justify">My name is Pulkit and I've been a Software Engineer with Goldman Sachs since November 2019. Prior to that, I worked with American Express for 2.5 years. I've spent around 4 years working in the industry with research and development work spanning in Big Data, Machine Learning and highly available web applications. I completed my graduate studies in 2017 from <a href="https://www.pec.ac.in/" target="_blank">Punjab Engineering College, Chandigarh</a> with a major in Computer Science & Engineering. <br><br>
+        I am interested in the applications of AI & Machine Learning for analysing biological data. I am also interested in the intersection of Machine Learning algorithms and Big Data technologies. Please find a copy of my resume <a href="resources/CV.pdf" target="_blank">here.</a></p>
       </div>
     </div>
       <!-- education -->
@@ -52,22 +52,7 @@ title: Resume
     </div>
   </div>
   <!--
-  <div class="row" id="education-details2">
-    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <div><h4>Awards</h4></div>
-      <ul>
-        <li>Gold medal for ranking first in the undergraduate class of 2017</li>
-        <li>Silver medal for the best final year project in CSE class of 2017</li>
-        <li>Awarded 100% tuition waiver in undergraduate college for 2 years</li>
-      </ul>
-    </div>
-    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <div><h4>Relevant Courses</h4></div>
-      <div><p class="text-justify">Neural Networks, Artificial Intelligence, Design and Analysis of Algorithms, Data Structures, Theory of Computing, Discrete Mathematics, Database Management Systems, Multimedia Technologies</p></div>
-    </div>
-  </div>
-  -->
-
+  
   <div class="row" id="education-details2">
     <div class="mx-auto col-xs-12 col-sm-12 col-md-12 col-lg-12">
       <div><h4>Relevant Courses</h4></div>
@@ -84,13 +69,14 @@ title: Resume
   <div class="row" id="experience-details">
     <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-4 header-left">
       <div><h3>Goldman Sachs, Bengaluru</h3></div>
-      <div><h4>Engineering Analyst</h4></div>
+      <div><h4>Engineering Associate</h4></div>
       <div><h4>Nov'19 - Present</h4></div>
     </div>
     <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-8 header-right">
-      <p class="text-justify">I currently work for Goldman Sachs in their Global Markets Division, based out of Bengaluru. In my current role, I've been a part of two automation projects. <br><br>
-      The first one involved helping traders across New York, London and Hong Kong automate booking trades on the company's proprietary software. My efforts were concentrated on designing, developing, optimizing and testing the workflow automation. I also devoted a significant part of my time in developing control scenarios in Python to alert in case of workflow failures.<br><br>
-      My second automation project involved setting up an automated regression environment that helped my team test and release their changes faster. This involved writing shell scripts and orchestrating the workflow.</p><br><br>
+      <p class="text-justify">I currently work for Goldman Sachs in their Global Markets Division, based out of Bengaluru. In my current role, I've been a part of two automation projects and another project that involved revamping their <a href="http://marketswiki.com/wiki/Synthetic_trades#:~:text=A%20synthetic%20trade%20or%20synthetic,the%20same%20risk%2Dreward%20profile.">Synthetic</a> Client Reporting tech stack. <br><br>
+      The first automation project involved helping traders across New York, London and Hong Kong automate booking trades on the company's proprietary software. My efforts were concentrated on designing, developing, optimizing and testing the workflow automation. I also devoted a significant part of my time in developing control scenarios in Python to alert in case of workflow failures. My second automation project involved setting up an automated regression environment that helped my team test and release their changes faster. This involved writing shell scripts and orchestrating the workflow.<br><br>
+      Lately, I've been working on automating batch workflows & scripts to extract reporting data based on synthetic stocks traded by clients on a given day and storing it in MongoDb. This also involved writing a Restful service in Java to expose reporting data extracted in MongoDb.
+      </p><br><br>
     </div>
     <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-4 header-left">
       <div><h3>American Express, Gurgaon</h3></div>
