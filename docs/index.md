@@ -8,7 +8,7 @@ title: Resume
   <div class="row top-bottom-buffer" id="explore">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-9 header-left">
       <div> <h1>Pulkit Arora</h1> </div>
-      <div> <h3>Software Engineer</h3> </div>
+      <div> <h3>MS CS at UC San Diego</h3> </div>
       <div>
       <a href="https://www.linkedin.com/in/pulkit-arora-16abbab1/" target="_blank"><img src="resources/linkedin_favicon.png" class="favicon"></a>
       <a href="mailto:pulkitarora22@gmail.com" target="_blank" style="margin-left:5px;"><img src="resources/email_favicon.png" class="favicon"></a>
@@ -23,7 +23,7 @@ title: Resume
   <div class="row top-bottom-buffer" id="about-me">
       <div class="mx-auto col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <h1> About Me </h1><br>
-        <p class="text-justify">My name is Pulkit and I've been a Software Engineer with Goldman Sachs since November 2019. Prior to that, I worked with American Express for 2.5 years. I've spent around 4 years working in the industry with research and development work spanning in Big Data, Machine Learning and highly available web applications. I completed my graduate studies in 2017 from <a href="https://www.pec.ac.in/" target="_blank">Punjab Engineering College, Chandigarh</a> with a major in Computer Science & Engineering. <br><br>
+        <p class="text-justify">My name is Pulkit and I'm currently pursuing a Master's in Computer Science and Engineering at UC San Diego. Previously, I was a Software Engineer with Goldman Sachs for roughly a year and nine months. Prior to that, I worked with American Express for two and a half years. I've spent around four years working in the industry with research and development work spanning in Big Data, Machine Learning and highly available web applications. I completed my graduate studies in 2017 from <a href="https://www.pec.ac.in/" target="_blank">Punjab Engineering College, Chandigarh</a> with a major in Computer Science & Engineering. <br><br>
         I am interested in the applications of AI & Machine Learning for analysing biological data. I am also interested in the intersection of Machine Learning algorithms and Big Data technologies. Please find a copy of my resume <a href="resources/CV.pdf" target="_blank">here.</a></p>
       </div>
     </div>
@@ -70,7 +70,7 @@ title: Resume
     <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-4 header-left">
       <div><h3>Goldman Sachs, Bengaluru</h3></div>
       <div><h4>Engineering Associate</h4></div>
-      <div><h4>Nov'19 - Present</h4></div>
+      <div><h4>Nov'19 - Aug'21</h4></div>
     </div>
     <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-8 header-right">
       <p class="text-justify">I currently work for Goldman Sachs in their Global Markets Division, based out of Bengaluru. In my current role, I've been a part of two automation projects and another project that involved revamping their <a href="http://marketswiki.com/wiki/Synthetic_trades#:~:text=A%20synthetic%20trade%20or%20synthetic,the%20same%20risk%2Dreward%20profile.">Synthetic</a> Client Reporting tech stack. <br><br>
