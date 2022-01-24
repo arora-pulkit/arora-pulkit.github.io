@@ -33,31 +33,13 @@ title: Resume
         <h1> Education </h1>
         </div>
     </div>
-  <div class="row" id="education-details">
-    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-4 header-left">
-      <div><h3>Punjab Engineering College</h3></div>
-      <div><h4>B.Tech. in CSE, 9.7/10</h4></div>
-      <div><h5>Aug'13 - May'17</h5></div>
-      <div><h5>Gold Medal</h5></div>
-    </div>
-    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-8 header-right">
-      <div><p class="text-justify">I was the recipient of a 100% merit based scholarship for 2 years and graduated first in my class. Below is a description of some of my projects - </p></div>
-      <!--<h4>Projects</h4>-->
-      <ul>
-        <li>Co-authored a ​<a href="https://doi.org/10.1109/CCAA.2017.8229773" target="_blank">paper</a> during the final year of college where different ML classification techniques ​were used to achieve the highest accuracy in binary classification of stance data. Was awarded the Silver Medal for the best final year project</li>
-        <li>Explored ML & statistical methods in R to analyse fMRI images at Indian Institute of Technology, Delhi during the summer of 2015</li>
-        <li>Created a web application where the user draws a weighted graph and the result is a minimum cost spanning tree based on Prim’s algorithm as part of the Algorithms course</li>
-        <li>Built a conversational chat application that allowed group chats and file sharing</li>
-      </ul>
-    </div>
-  </div>
   <div class="row" id="education-details-2">
-    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-4 header-left">
+    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-5 header-left">
       <div><h3>University of California, San Diego</h3></div>
       <div><h4>MS in CS, 3.90/4.00</h4></div>
       <div><h5>Sep'21 - Jun'23 (expected)</h5></div>
     </div>
-    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-8 header-right">
+    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-7 header-right">
       <div><p class="text-justify">Coursework & Projects (in progress)</p></div>
       <!--<h4>Projects</h4>-->
       <ul>
@@ -68,12 +50,23 @@ title: Resume
       </ul>
     </div>
   </div>
-  <!--
-  
-  <div class="row" id="education-details2">
-    <div class="mx-auto col-xs-12 col-sm-12 col-md-12 col-lg-12">
-      <div><h4>Relevant Courses</h4></div>
-      <div><p class="text-justify">Neural Networks, Artificial Intelligence, Design and Analysis of Algorithms, Data Structures, Theory of Computing, Discrete Mathematics, Database Management Systems, Multimedia Technologies</p></div>
+
+  <div class="row" id="education-details">
+    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-5 header-left">
+      <div><h3>Punjab Engineering College</h3></div>
+      <div><h4>B.Tech. in CSE, 9.7/10</h4></div>
+      <div><h5>Aug'13 - May'17</h5></div>
+      <div><h5>Gold Medal</h5></div>
+    </div>
+    <div class="mx-auto col-xs-12 col-sm-6 col-md-6 col-lg-7 header-right">
+      <div><p class="text-justify">I was the recipient of a 100% merit based scholarship for 2 years and graduated first in my class. Below is a description of some of my projects - </p></div>
+      <!--<h4>Projects</h4>-->
+      <ul>
+        <li>Co-authored a ​<a href="https://doi.org/10.1109/CCAA.2017.8229773" target="_blank">paper</a> during the final year of college where different ML classification techniques ​were used to achieve the highest accuracy in binary classification of stance data. Was awarded the Silver Medal for the best final year project</li>
+        <li>Explored ML & statistical methods in R to analyse fMRI images at Indian Institute of Technology, Delhi during the summer of 2015</li>
+        <li>Created a web application where the user draws a weighted graph and the result is a minimum cost spanning tree based on Prim’s algorithm as part of the Algorithms course</li>
+        <li>Built a conversational chat application that allowed group chats and file sharing</li>
+      </ul>
     </div>
   </div>
 
